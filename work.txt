@@ -1,0 +1,49 @@
+blog.wangningbo.com
+=========
+
+Ningbo Wang
+Blockchain enthusiast, Chain developer
+Rust / Java / Go / Solidity
+
+Contact
+-------
+
+* WNB2536935847 on WeiXin
+* 2536935847 on QQ
+* hqwangningbo on Github
+* hqwangningbo on Discord
+* @hqwangningbo on Twitter
+
+
+Projects
+--------
+
+* www.sherpax.io
+* soswap.finance
+* kitties.wangningbo.com
+* nbchain.wangningbo.com
+* set-purpose.wangningbo.com
+and of course...
+* blog.wangningbo.com
+
+Open Source
+-----------
+
+* Chainx
+* MiniXChain
+* Sherpax
+* playerlink-community-chain
+* polkadot-js
+* WeEvent
+* go-substrate-rpc-client
+* WeLightBlockchainOS
+* Dapp-Learning
+* Nonce-Geek-Studio
+* Tai-Shang-NFT-Wallet
+* NFT-Parser
+
+Photos
+------
+
+* [Ningbo Wang is in the front](/img/img2.png)
+* [Qingxia Zhang is in the back](/img/img1.png)
